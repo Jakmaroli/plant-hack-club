@@ -17,30 +17,12 @@ The project is split into four distinct parts to keep the code clean and hackabl
 
 Since this version is built to be **Local-Friendly**, you don't need a complex server setup.
 
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/glitch-runner.git](https://github.com/YOUR_USERNAME/glitch-runner.git)
-Open the folder:
-Navigate to the glitch runner directory.
-
-Launch:
-Simply double-click index.html to open it in your browser.
-
 🎮 How to Play
 Check Vibe: Click the green button to see how your plant is feeling. Warning: This drains 15% health!
 
 Hydrate: If the health bar (at the top) gets low, click Hydrate Plant to restore 30% health.
 
 Evolution: If the health drops below 40%, the plant's vocabulary changes to its "Struggling" state.
-
-🤝 Contributing
-Want to add more personalities?
-
-Open database.js.
-
-Add a new object to the healthy or dry arrays.
-
-Submit a Pull Request!
 
 Built with ❤️ for Hack Club.
 
