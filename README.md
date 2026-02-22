@@ -2,9 +2,6 @@
 
 A modular, interactive "Plant Personality" dashboard built for **Hack Club**. This project uses a custom logic engine to track your plant's health and translate its "vibes" into human thoughts.
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Hack Club](https://img.shields.io/badge/built%20for-Hack%20Club-red)
-
 ## 🚀 The Hack
 Most plant trackers are boring. **Plant Whisperer** gives your greenery a soul. Depending on how much you "Check the Vibe," your plant consumes energy. If you don't hydrate it, its personality shifts from "Thriving" to "Sassy/Dramatic" or even "Critical."
 
